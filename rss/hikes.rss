@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-  
-    2013.10.26
-    Col des Avouillons, Switzerland
-    
-  
-  
-    2013.09.22
-    Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland
-    
-  
-  
-    2013.08.31
-    Louvie / Col du Bec d'Aigle / Sovereu, Switzerland
-    
-  
-  
-    2013.08.10
-    Cabane FXB Panossière, Switzerland
-    
-  
-  
-    2012.10.13
-    Grand-Tsai / Col de Mille, Switzerland
-    
-  
+<rss version="2.0">
+   <channel>
+      <title>Hikes (Olivier Bruchez)</title>
+      <description/>
+      <link>http://github.com/obruchez/public/blob/master/Hikes.md</link>
+      <item>
+         <title>Col des Avouillons, Switzerland</title>
+         <pubDate>26 Oct 2013 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Hikes.md#5</guid>
+      </item>
+      <item>
+         <title>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</title>
+         <pubDate>22 Sep 2013 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Hikes.md#4</guid>
+      </item>
+      <item>
+         <title>Louvie / Col du Bec d'Aigle / Sovereu, Switzerland</title>
+         <pubDate>31 Aug 2013 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Hikes.md#3</guid>
+      </item>
+      <item>
+         <title>Cabane FXB Panossière, Switzerland</title>
+         <pubDate>10 Aug 2013 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Hikes.md#2</guid>
+      </item>
+      <item>
+         <title>Grand-Tsai / Col de Mille, Switzerland</title>
+         <pubDate>13 Oct 2012 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Hikes.md#1</guid>
+      </item>
+   </channel>
+</rss>
