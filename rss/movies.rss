@@ -2,8 +2,18 @@
 <rss version="2.0">
    <channel>
       <title>Movies (Olivier Bruchez)</title>
-      <description/>
+      <description>Movies (Olivier Bruchez)</description>
       <link>http://github.com/obruchez/public/blob/master/Lists/Movies.md</link>
+      <item>
+         <title>Tim Burton - Big Eyes</title>
+         <pubDate>29 Mar 2015 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Lists/Movies.md#698</guid>
+      </item>
+      <item>
+         <title>Marc Caro &amp; Jean-Pierre Jeunet - La cité des enfants perdus</title>
+         <pubDate>28 Mar 2015 00:00:00 +0000</pubDate>
+         <guid>http://github.com/obruchez/public/blob/master/Lists/Movies.md#697</guid>
+      </item>
       <item>
          <title>Alejandro González Iñárritu - Birdman: Or (The Unexpected Virtue of Ignorance)</title>
          <pubDate>01 Mar 2015 00:00:00 +0000</pubDate>
